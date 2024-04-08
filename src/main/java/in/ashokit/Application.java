@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @SpringBootApplication
 @EnableEurekaServer
 public class Application {
-
+//code review done.
 	int i =10;
 	String s = 'mike';
 	int j = 20;
