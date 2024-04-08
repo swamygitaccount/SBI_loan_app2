@@ -12,6 +12,7 @@ public class Application {
 	String s = 'mike';
 	int j = 20;
 	int k = 1000;
+	int w = 100000;
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 
