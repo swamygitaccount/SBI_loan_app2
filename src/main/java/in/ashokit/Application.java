@@ -17,15 +17,13 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 
 
-<<<<<<< Updated upstream
 
-
+// git merge concept
 
 
 
 		//bug fix 130
 		int x = 200000;
-=======
 		publix String getmsg(){
 
 			//bug fix 123
